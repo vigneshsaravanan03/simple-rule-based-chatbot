@@ -18,7 +18,7 @@ This repository contains a simple rule-based chatbot implemented in Python. The 
 
 2.Removes stopwords and lemmatizes the tokens.
 
-3.Response Generation:
+3.Response Generation.
 
 ## Response Generation:
 1.Preprocesses the user input.
